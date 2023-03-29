@@ -1,8 +1,6 @@
-> **Note:** Please follow the [repository conventions](https://github.com/EsriDevEvents/contributor-guides/blob/main/conventions.md#conventions-for-repositories) and [slugify](https://slugify.online/) the title of your repo
+# Using Open Source Mapping Libraries with ArcGIS Location Services
 
-# Name of the session
-
-[Description of the session]
+Learn how to integrate ArcGIS location services into popular open-source mapping APIs such as Leaflet, OpenLayers, and MapLibre GL JS. We will cover ready to use ArcGIS Platform location services such as basemaps, routing, geocoding, demographics, spatial analysis, and hosted data.
 
 ## Slides and recording
 
@@ -10,4 +8,4 @@ Most of the recordings are uploaded to [2023 Esri Developer Summit in "mediaspac
 
 ## Related sessions
 
-...
+* [Working with the ArcGIS REST JS](https://devsummit2023.esri.com/flow/esri/23epcdev/deveventportal/page/sessions/session/1671506582046001I6Of)
